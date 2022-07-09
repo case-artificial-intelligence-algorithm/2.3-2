@@ -2,3 +2,4 @@ pytest
 numpy
 sklearn
 pandas
+xlrd
